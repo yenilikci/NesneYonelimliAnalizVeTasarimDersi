@@ -1,0 +1,2 @@
+# NesneYonelimliAnalizVeTasarimDersi
+YIL İÇİ PROJE ÇALIŞMASI  - NESNELERİN İNTERNETİ SİSTEMLERİ İÇİN AKILLI CİHAZ (NESNE) TASARIMI 
